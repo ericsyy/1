@@ -1,4 +1,4 @@
-# NewifiD2-OpenwrtBuilder
+# NanoPiR2S-OpenwrtBuilder
 
 Automatically build at 0:00(UTC) every Thursday 
 
